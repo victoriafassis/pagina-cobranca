@@ -1,6 +1,6 @@
 # pagina-cobranca
 
-![Capa do Projeto]([https://3.bp.blogspot.com/-SYrKgXwRHTI/VaWmcy76CwI/AAAAAAAANXk/xNqIqG70UJY/s640/html-css.jpg](https://gestaoclick.com.br/wp-content/uploads/Formas_de_pagamento_a_importancia_da_variedade_para_o_consumidor_11_48_35-1024x576.png.webp))
+![Capa do Projeto](https://gestaoclick.com.br/wp-content/uploads/Formas_de_pagamento_a_importancia_da_variedade_para_o_consumidor_11_48_35.png)
 
 # Sobre o Projeto
 
